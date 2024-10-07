@@ -138,7 +138,7 @@ def lambda_handler(event, context):
 
 ### Workflow Overview
 
-![Screenshot 2024-10-06 at 10.46.37 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/400e6f1e-eadb-4279-8837-8d11de40efd1/7a3542da-b839-4a58-86bf-195f976e3776/Screenshot_2024-10-06_at_10.46.37_PM.png)
+![ETL Workflow](ETL%20Workflow.png)
 
 ### Triggers Overview
 

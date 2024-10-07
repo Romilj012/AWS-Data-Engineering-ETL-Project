@@ -2,7 +2,7 @@
 
 This project demonstrates a complete ETL (Extract, Transform, Load) process using AWS Glue to load data from AWS S3 to Amazon Redshift.
 
-![AWS ETL Architecture](AWS%20ETL%20Architecture.png)
+![AWS ETL Architecture](Images/AWS%20ETL%20Architecture.png)
 
 ## AWS Glue
 
@@ -138,7 +138,7 @@ def lambda_handler(event, context):
 
 ### Workflow Overview
 
-![ETL Workflow](ETL%20Workflow.png)
+![ETL Workflow](Images/ETL%20Workflow.png)
 
 ### Triggers Overview
 

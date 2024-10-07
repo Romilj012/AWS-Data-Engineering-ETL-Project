@@ -1,5 +1,4 @@
 # AWS Data Engineering ETL Project (S3, Glue, RedShift, Athena, Lambda, Workflow)
-# AWS Data Engineering Project
 
 This project demonstrates a complete ETL (Extract, Transform, Load) process using AWS Glue to load data from AWS S3 to Amazon Redshift.
 

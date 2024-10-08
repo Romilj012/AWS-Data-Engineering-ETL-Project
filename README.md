@@ -4,6 +4,9 @@ This project demonstrates a complete ETL (Extract, Transform, Load) process usin
 
 ![AWS ETL Architecture](Images/AWS%20ETL%20Architecture.png)
 
+## Demo
+https://github.com/user-attachments/assets/697dea4d-4a77-4324-b340-5d57f89ad06e
+
 ## AWS Glue
 
 AWS Glue provides a console and API operations to set up and manage your extract, transform, and load (ETL) workload.
@@ -139,6 +142,10 @@ def lambda_handler(event, context):
 ### Workflow Overview
 
 ![ETL Workflow](Images/ETL%20Workflow.png)
+
+
+https://github.com/user-attachments/assets/bb5bdbe4-2844-49b0-b3ac-12f1da0fac97
+
 
 ### Triggers Overview
 
